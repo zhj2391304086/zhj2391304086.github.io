@@ -1,0 +1,24 @@
+&small_1=images/01.jpg
+&big_1=images/a.jpg
+&biaoti1=<a href="#" target=" "><b>我的作品1</b></a>
+&wen1=<a href="#" target=" ">我的作品1<BR></a>
+&fm1url1=#
+&picbiaoti1=我的作品1
+&small_2=images/02.jpg
+&big_2=images/b.jpg
+&biaoti2=<a href="#" target=" "><b>我的作品2</b></a>
+&wen2=<a href="#" target=" ">我的作品2<BR></a>
+&fm1url2=#
+&picbiaoti2=我的作品2
+&small_3=images/03.jpg
+&big_3=images/c.jpg
+&biaoti3=<a href="#" target=" "><b>我的作品3</b></a>
+&wen3=<a href="#" target=" ">我的作品3</a>
+&fm1url3=#
+&picbiaoti3=我的作品3
+&small_4=images/04.jpg
+&big_4=images/d.jpg
+&biaoti4=<a href="#" target=" "><b>我的作品4</b></a>
+&wen4=<a href="#" target=" "><P>我的作品4</P></a>
+&fm1url4=#
+&picbiaoti4=我的作品4
